@@ -163,8 +163,14 @@ NAVIGATION_LINKS = {
                 ("https://www.youtube.com/channel/UCtGX4FlsY17jn4qXynaUzsg/playlists?shelf_id=4&view=50&sort=dd", "Zuka's YouTube guides"),
             ),
             "YouTube guides",
-        )
-
+        ),
+        (
+            (
+                ("https://github.com/AllThingsProtoss/allthingsprotoss.github.io", "GitHub repo for website"),
+                ("https://github.com/AllThingsProtoss/", "GitHub org"),
+            ),
+            "Contribute",
+        ),
     ),
 }
 
