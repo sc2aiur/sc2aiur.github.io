@@ -3,7 +3,7 @@
 .. slug: harstem-stats-colossus-phoenix-opener-vs-terran-guide
 .. date: 2020-01-07 08:00:00 UTC
 .. tags: phoenix, colossus, pvt, harstem
-.. category: PvT
+.. category: videos
 .. link: 
 .. description: 
 .. type: text

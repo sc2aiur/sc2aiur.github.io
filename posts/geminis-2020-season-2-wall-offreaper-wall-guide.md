@@ -3,7 +3,7 @@
 .. slug: geminis-2020-season-2-wall-offreaper-wall-guide
 .. date: 2020-07-07 08:01:50 UTC
 .. tags: maps, 2020-season-2
-.. category: 2020-season-2
+.. category: 
 .. link: 
 .. description:  The most vetoed maps in the pool.
 .. type: text

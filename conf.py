@@ -172,6 +172,7 @@ NAVIGATION_LINKS = {
             ),
             "Per-matchup guides",
         ),
+        ("/authors/", "By content creator"),
         (
             (
                 ("https://github.com/AllThingsProtoss/allthingsprotoss.github.io", "GitHub repo for website"),
