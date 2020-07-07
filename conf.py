@@ -142,6 +142,29 @@ NAVIGATION_LINKS = {
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
         ("/rss.xml", "RSS feed"),
+        (
+            (
+                ("https://www.reddit.com/r/allthingsprotoss/", "r/ATP"),
+                ("https://discord.gg/0vqBir5WqHvZBlxc", "Discord"),
+            ),
+            "Community",
+        ),
+        (
+            (
+                ("https://docs.google.com/document/d/1CxAiv5lcPCT4pIZfZe91l8ZDGTKTGnlPaiMDTmfpPeU/edit", "BOTW Archive"),
+            ),
+            "Builds",
+        ),
+        (
+            (
+                ("https://www.youtube.com/playlist?list=PLFUDU8AOevUc4Y10yIUlMsXSiy-F0LEgP", "Protoss PiG Daily Episodes"),
+                ("https://www.youtube.com/user/MattCStarcraft/videos", "MCanning YouTube guides"),
+                ("https://www.youtube.com/watch?v=wMr0sbrj7gk&list=PLTBkqjinaR1RMiAaexX6MVf3rSeO4o7jS", "printF's Minute Micro series"),
+                ("https://www.youtube.com/channel/UCtGX4FlsY17jn4qXynaUzsg/playlists?shelf_id=4&view=50&sort=dd", "Zuka's YouTube guides"),
+            ),
+            "YouTube guides",
+        )
+
     ),
 }
 
