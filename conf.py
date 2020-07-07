@@ -166,6 +166,14 @@ NAVIGATION_LINKS = {
         ),
         (
             (
+                ("/categories/pvt/", "PvT"),
+                ("/categories/pvz/", "PvZ"),
+                ("/categories/pvp/", "PvP"),
+            ),
+            "Per-matchup guides",
+        ),
+        (
+            (
                 ("https://github.com/AllThingsProtoss/allthingsprotoss.github.io", "GitHub repo for website"),
                 ("https://github.com/AllThingsProtoss/", "GitHub org"),
             ),
