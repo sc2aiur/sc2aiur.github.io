@@ -7,6 +7,7 @@
 .. link: 
 .. description: The most vetoed maps in the map pool.
 .. type: text
+.. status: featured
 -->
 
 Percentage of map vetos for each map:

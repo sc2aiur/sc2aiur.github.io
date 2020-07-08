@@ -8,6 +8,7 @@
 .. description:  The most vetoed maps in the pool.
 .. type: text
 .. author: Gemini_19
+.. status: featured
 -->
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/XpwD59Q"><a href="//imgur.com/a/XpwD59Q">2020 Season 2 Wall-off/Reaper Wall Guide</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
