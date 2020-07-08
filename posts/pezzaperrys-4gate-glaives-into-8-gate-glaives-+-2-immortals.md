@@ -1,7 +1,7 @@
 <!--
 .. title: Pezzaperry's 4gate glaives into 8 gate glaives + 2 immortals
 .. slug: pezzaperrys-4gate-glaives-into-8-gate-glaives-+-2-immortals
-.. date: 2020-07-08 07:11:59 UTC
+.. date: 2020-07-07 
 .. tags: pvz, all-in, adept, immortal, 8gate
 .. category: videos
 .. link: https://www.youtube.com/watch?v=OHQfkEx76IE
