@@ -2,10 +2,10 @@
 .. title: Harstem: Stat's Colossus Phoenix opener vs Terran | Guide
 .. slug: harstem-stats-colossus-phoenix-opener-vs-terran-guide
 .. date: 2020-01-07 08:00:00 UTC
-.. tags: phoenix, colossus, pvt, harstem
+.. tags: phoenix, colossus, pvt, harstem, stats, macro
 .. category: videos
-.. link: 
-.. description: 
+.. link: https://www.youtube.com/embed/4epNk4E4ihs
+.. description:
 .. type: text
 .. author: Harstem
 -->

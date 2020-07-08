@@ -4,7 +4,7 @@
 .. date: 2020-07-07 08:01:50 UTC
 .. tags: maps, 2020-season-2
 .. category: 
-.. link: 
+.. link: https://reddit.com/r/allthingsprotoss/comments/gz0v2a/2020_season_2_walloffreaper_wall_guide/
 .. description:  The most vetoed maps in the pool.
 .. type: text
 .. author: Gemini_19
