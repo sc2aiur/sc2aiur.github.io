@@ -149,14 +149,14 @@ NAVIGATION_LINKS = {
                 ("/categories/pvz/", "PvZ"),
                 ("/categories/pvp/", "PvP"),
                 ("/categories/beginner/", "For beginners"),
-                ("/categories/cheese-defense", "PvP is a serious matchup and never a meme"),
+                ("/categories/cheese-defense", "Cheese defense"),
             ),
             "Content",
         ),
         (
             (
                 ("https://www.reddit.com/r/allthingsprotoss/", "r/ATP"),
-                ("https://discord.gg/0vqBir5WqHvZBlxc", "Discord"),
+                ("https://discord.gg/0vqBir5WqHvZBlxc", "<img src='/images/Discord-Logo+Wordmark-Color.png' alt='Discord'>"),
             ),
             "Community",
         ),
@@ -179,7 +179,6 @@ NAVIGATION_LINKS = {
             ),
             "Contribute",
         ),
-        ("/rss.xml", "RSS"),
     ),
 }
 
@@ -256,15 +255,11 @@ THEME_CONFIG = {
 
 POSTS = (
     ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
     ("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("pages/*.md", "pages", "page.tmpl"),
-    ("pages/*.rst", "pages", "page.tmpl"),
-    ("pages/*.txt", "pages", "page.tmpl"),
-    ("pages/*.html", "pages", "page.tmpl"),
+    ("pages/*.md", "", "page.tmpl"),
+    ("pages/*.html", "", "page.tmpl"),
 )
 
 
@@ -579,7 +574,7 @@ HIDDEN_AUTHORS = ['Guest']
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # (translatable)
-INDEX_PATH = ""
+INDEX_PATH = "posts"
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
@@ -972,7 +967,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> - {license} <a href="/rss.xml">RSS</a> <br/> <small>PvP is a serious matchup and never a meme</small>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will

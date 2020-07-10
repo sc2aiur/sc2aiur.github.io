@@ -7,9 +7,9 @@
 .. link: 
 .. description: 
 .. type: text
+.. author: Perfi
 -->
 
-.. class:: jumbotron col-md-6
 
 .. admonition:: This is a Fake Site
 
