@@ -47,7 +47,7 @@ This means we're currently in need of three distinct categories of help:
 3. Website suggestions! It's obviously a very early prototype and I'm still tinkering with it.
    Please report any issues or suggestions you may have on
    [GitHub](https://github.com/AllThingsProtoss/allthingsprotoss.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc),
-   Discord or Reddit.
+   Discord or Reddit. I'm sure there's a lot of bugs to be fixed; pointing them out is the fastest way to get that done.
     * a sidebar is on its way once I figure out how to set it up.
     * help with fixing these issues, as with all open source, is obviously most welcome!
 
