@@ -169,6 +169,7 @@ NAVIGATION_LINKS = {
                 ("https://www.youtube.com/channel/UCtGX4FlsY17jn4qXynaUzsg/playlists?shelf_id=4&view=50&sort=dd", "Zuka's YouTube guides"),
                 ("https://www.youtube.com/playlist?list=PLFeZeom2b4DkUU4sLER4AlODlZuxfbTJZ", "Vibe's Protoss Bronze to GM series"),
                 ("https://docs.google.com/document/d/1CxAiv5lcPCT4pIZfZe91l8ZDGTKTGnlPaiMDTmfpPeU/edit", "BOTW Archive"),
+                ("https://www.youtube.com/watch?v=7Ezci19D-DY&list=PLh2lJsj9ze1Dnw75H7NT0s73vmWJfTcZI", "HuShang's Protoss guides"),
             ),
             "YouTube guides, external sources",
         ),
