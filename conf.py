@@ -24,7 +24,7 @@ SITE_URL = "https://allthingsprotoss.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://allthingsprotoss.github.io/"
-BLOG_EMAIL = "stanczakdominik@gmail.com"
+BLOG_EMAIL = ""
 BLOG_DESCRIPTION = "r/ATP content aggregator for Protoss guides and materials"  # (translatable)
 
 # Nikola is multilingual!
@@ -967,7 +967,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> - {license} <a href="/rss.xml">RSS</a> <br/> <small>PvP is a serious matchup and never a meme</small>'
+CONTENT_FOOTER = 'Contents &copy; {date}         {author} - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> - {license} <a href="/rss.xml">RSS</a> <br/> <small>PvP is a serious matchup and never a meme</small>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -1017,7 +1017,7 @@ COMMENT_SYSTEM_ID = "allthingsprotoss"
 #          will not be generated for that directory.
 # PAGE_INDEX = False
 # Enable comments on pages (i.e. not posts)?
-# COMMENTS_IN_PAGES = False
+COMMENTS_IN_PAGES = True
 # Enable comments on picture gallery pages?
 # COMMENTS_IN_GALLERIES = False
 
