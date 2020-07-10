@@ -139,9 +139,20 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+
+        (
+            (
+                ("/categories/", "By tags"),
+                ("/archive.html", "By year"),
+                ("/authors/", "By content creator"),
+                ("/categories/pvt/", "PvT"),
+                ("/categories/pvz/", "PvZ"),
+                ("/categories/pvp/", "PvP"),
+                ("/categories/beginner/", "For beginners"),
+                ("/categories/cheese-defense", "PvP is a serious matchup and never a meme"),
+            ),
+            "Content",
+        ),
         (
             (
                 ("https://www.reddit.com/r/allthingsprotoss/", "r/ATP"),
@@ -151,30 +162,16 @@ NAVIGATION_LINKS = {
         ),
         (
             (
-                ("https://docs.google.com/document/d/1CxAiv5lcPCT4pIZfZe91l8ZDGTKTGnlPaiMDTmfpPeU/edit", "BOTW Archive"),
-            ),
-            "Builds",
-        ),
-        (
-            (
                 ("https://www.youtube.com/channel/UCCRdB9rqzP2m7bPYb5drH_Q", "Harstem's youtube guides"),
                 ("https://www.youtube.com/playlist?list=PLFUDU8AOevUc4Y10yIUlMsXSiy-F0LEgP", "Protoss PiG Daily Episodes"),
                 ("https://www.youtube.com/user/MattCStarcraft/videos", "MCanning YouTube guides"),
                 ("https://www.youtube.com/watch?v=wMr0sbrj7gk&list=PLTBkqjinaR1RMiAaexX6MVf3rSeO4o7jS", "printF's Minute Micro series"),
                 ("https://www.youtube.com/channel/UCtGX4FlsY17jn4qXynaUzsg/playlists?shelf_id=4&view=50&sort=dd", "Zuka's YouTube guides"),
                 ("https://www.youtube.com/playlist?list=PLFeZeom2b4DkUU4sLER4AlODlZuxfbTJZ", "Vibe's Protoss Bronze to GM series"),
+                ("https://docs.google.com/document/d/1CxAiv5lcPCT4pIZfZe91l8ZDGTKTGnlPaiMDTmfpPeU/edit", "BOTW Archive"),
             ),
-            "YouTube guides",
+            "YouTube guides, external sources",
         ),
-        (
-            (
-                ("/categories/pvt/", "PvT"),
-                ("/categories/pvz/", "PvZ"),
-                ("/categories/pvp/", "PvP"),
-            ),
-            "Per-matchup guides",
-        ),
-        ("/authors/", "By content creator"),
         (
             (
                 ("https://github.com/AllThingsProtoss/allthingsprotoss.github.io", "GitHub repo for website"),
@@ -182,6 +179,7 @@ NAVIGATION_LINKS = {
             ),
             "Contribute",
         ),
+        ("/rss.xml", "RSS"),
     ),
 }
 
