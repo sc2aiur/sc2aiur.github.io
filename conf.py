@@ -406,20 +406,24 @@ COMPILERS = {
 # Set descriptions for tag pages to make them more interesting. The
 # default is no description. The value is used in the meta description
 # and displayed underneath the tag list or index page’s title.
-# TAG_DESCRIPTIONS = {
-#    DEFAULT_LANG: {
-#        "blogging": "Meta-blog posts about blogging.",
-#        "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
-#    },
-# }
+TAG_DESCRIPTIONS = {
+   DEFAULT_LANG: {
+       "pvp": "The absolutely serious matchup which is never a meme.",
+       "phoenix": "With special thanks to Alluton.",
+   },
+}
 
 # Set special titles for tag pages. The default is "Posts about TAG".
-# TAG_TITLES = {
-#    DEFAULT_LANG: {
-#        "blogging": "Meta-posts about blogging",
-#        "open source": "Posts about open source software"
-#    },
-# }
+TAG_TITLES = {
+   DEFAULT_LANG: {
+       "pvp": "Posts about Protoss vs Protoss",
+       "pvz": "Posts about Protoss vs Zerg.",
+       "pvt": "Posts about Protoss vs Terran.",
+       "beginner": "Posts especially for beginners.",
+       "cheese defense": "Posts about holding early game aggression or cheeses.",
+       "phoenix": "Posts about strategies using Phoenixes. Phoenicians? Phoenixii?"
+   },
+}
 
 # If you do not want to display a tag publicly, you can mark it as hidden.
 # The tag will not be displayed on the tag list page and posts.
