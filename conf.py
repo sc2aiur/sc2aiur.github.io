@@ -156,7 +156,8 @@ NAVIGATION_LINKS = {
         (
             (
                 ("https://www.reddit.com/r/allthingsprotoss/", "r/ATP"),
-                ("https://discord.gg/0vqBir5WqHvZBlxc", "<img src='/images/Discord-Logo+Wordmark-Color.png' alt='Discord'>"),
+                ("https://discord.gg/BDWE78p", "r/Starcraft Discord"),
+                ("https://discord.gg/0vqBir5WqHvZBlxc", "r/ATP Discord"),
             ),
             "Community",
         ),
