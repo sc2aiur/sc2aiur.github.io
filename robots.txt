@@ -1,4 +1,4 @@
-Sitemap: https://aiur.github.io/sitemapindex.xml
+Sitemap: https://sc2aiur.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: aiur.github.io
+Host: sc2aiur.github.io
