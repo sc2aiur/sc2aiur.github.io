@@ -1,5 +1,5 @@
 <!--
-.. title: Tossboy's Beginner PvZ Guide (Part 1: Early Game)
+.. title: Tossboy's Beginner Early Game PvZ Guide (superseded)
 .. slug: tossboys-beginner-pvz-guide-part-1-early-game
 .. date: 2019-03-14 08:13:00 UTC
 .. tags: pvz, early game, beginner, article
@@ -10,6 +10,9 @@
 .. author: tossboy
 -->
 
+Superseded by [topical post](posts/pvz-early-game-survival).
+
 [Link to guide](https://docs.google.com/document/d/19nuWZRJXUW9VIffsNL_rvJqfNsky-HoXrUTPfAlKejE/edit).
 
 [Reddit thread](https://old.reddit.com/r/allthingsprotoss/comments/b10mmu/an_agent_of_efficiency_matchup_guide_to_protoss/).
+
