@@ -1,1 +1,1 @@
-# aiur.github.io
+# sc2aiur.github.io
