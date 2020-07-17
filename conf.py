@@ -16,16 +16,16 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "r/AllThingsProtoss community"  # (translatable)
-BLOG_TITLE = "AllThingsProtoss"  # (translatable)
+BLOG_AUTHOR = "SC2Aiur Contributors"  # (translatable)
+BLOG_TITLE = "Aiur"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://allthingsprotoss.github.io/"
+SITE_URL = "https://aiur.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://allthingsprotoss.github.io/"
+# BASE_URL = "https://aiur.github.io/"
 BLOG_EMAIL = ""
-BLOG_DESCRIPTION = "r/ATP content aggregator for Protoss guides and materials"  # (translatable)
+BLOG_DESCRIPTION = "Content aggregator for StarCraft II Protoss guides and materials"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -175,8 +175,8 @@ NAVIGATION_LINKS = {
         ),
         (
             (
-                ("https://github.com/AllThingsProtoss/allthingsprotoss.github.io", "GitHub repo for website"),
-                ("https://github.com/AllThingsProtoss/", "GitHub org"),
+                ("https://github.com/sc2aiur/aiur.github.io", "GitHub repo for website"),
+                ("https://github.com/sc2aiur/", "GitHub org"),
             ),
             "Contribute",
         ),
