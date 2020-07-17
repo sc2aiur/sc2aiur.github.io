@@ -1,0 +1,4 @@
+Sitemap: https://aiur.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: aiur.github.io
