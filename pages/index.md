@@ -1,5 +1,5 @@
 <!--
-.. title: Welcome to AllThingsProtoss
+.. title: Welcome to SC2Aiur
 .. slug: index
 .. date: 2020-07-07 07:45:13 UTC
 .. tags: 
@@ -12,10 +12,9 @@
 .. nocomments: True
 -->
 
-## Welcome to the r/AllThingsProtoss content aggregator website!
+## Welcome to SC2Aiur, the Protoss content aggregator website!
 
-Head on over to [our list of current content](/posts/) to skip the rationale
-and start learning Protoss :)
+#### Head on over to [our list of current content](/posts/) to skip the rationale and start learning Protoss :)
 
 The website arose out of a perceived lack of a common knowledge base for Protoss players.
 Terrans have [TerranCraft](https://terrancraft.com/) and Zergs have
