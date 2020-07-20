@@ -6,7 +6,6 @@
 .. category: Topical
 .. description: Solid PvT macro-oriented opening based on Observers for vision and Colossi for defense.
 .. type: text
-.. author: Harstem, Gemini_19
 -->
 
 # Harstem's video guide, from October 2019
