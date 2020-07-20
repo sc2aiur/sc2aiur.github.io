@@ -1,0 +1,28 @@
+version: 2
+jobs:
+  html-docs:
+    docker:
+      - image: continuumio/miniconda3
+    steps:
+      - checkout
+      - run: 
+          name: "Install nikola"
+          command: pip install nikola
+      - run:
+          name: "Build website"
+          command: nikola build
+      - store_artifacts:
+          path: output
+      - run:
+          name: "Built documentation is available at:"
+          command: DOCS_URL="${CIRCLE_BUILD_URL}/artifacts/${CIRCLE_NODE_INDEX}/${CIRCLE_WORKING_DIRECTORY/#\~/$HOME}/output/index.html"; echo $DOCS_URL
+
+workflows:
+  version: 2
+  test-documentation:
+    jobs:
+      - html-docs
+
+notify:
+  webhooks:
+    - url: https://giles.cadair.dev/circleci
