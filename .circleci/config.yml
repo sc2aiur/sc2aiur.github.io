@@ -13,6 +13,7 @@ jobs:
           command: nikola build
       - store_artifacts:
           path: output
+          destination: built_website
       - run:
           name: "Built documentation is available at:"
           command: DOCS_URL="${CIRCLE_BUILD_URL}/artifacts/${CIRCLE_NODE_INDEX}/output/index.html"; echo $DOCS_URL
