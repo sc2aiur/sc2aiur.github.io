@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  html-docs:
+  build-website:
     docker:
       - image: continuumio/miniconda3
     steps:
@@ -21,7 +21,7 @@ workflows:
   version: 2
   test-documentation:
     jobs:
-      - html-docs
+      - build-website
 
 notify:
   webhooks:
