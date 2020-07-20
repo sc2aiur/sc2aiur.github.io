@@ -16,8 +16,6 @@ jobs:
       - run:
           name: "Built documentation is available at:"
           command: DOCS_URL="${CIRCLE_BUILD_URL}/artifacts/${CIRCLE_NODE_INDEX}/output/index.html"; echo $DOCS_URL
-https://2-280468856-gh.circle-artifacts.com/0/output/index.html
-https://2-280468856-gh.circle-artifacts.com/0/root/project/output/index.html
 
 workflows:
   version: 2
