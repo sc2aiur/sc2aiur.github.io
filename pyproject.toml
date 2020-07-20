@@ -1,5 +1,5 @@
 [ tool.gilesbot ]
     [ tool.gilesbot.circleci_artifacts.website ]
         url = "output/index.html"
-        message = "Automated website build for this PR"
+        message = "Preview the built website here. Links may need appending '/index.html' to the URL."
         report_on_fail = true
