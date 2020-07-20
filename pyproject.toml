@@ -2,3 +2,4 @@
     [ tool.gilesbot.circleci_artifacts.website ]
         url = "output/index.html"
         message = "Automated website build for this PR"
+        report_on_fail = true
