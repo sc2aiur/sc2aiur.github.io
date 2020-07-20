@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  html-docs:
+  build-website:
     docker:
       - image: continuumio/miniconda3
     steps:
@@ -15,13 +15,13 @@ jobs:
           path: output
       - run:
           name: "Built documentation is available at:"
-          command: DOCS_URL="${CIRCLE_BUILD_URL}/artifacts/${CIRCLE_NODE_INDEX}/${CIRCLE_WORKING_DIRECTORY/#\~/$HOME}/output/index.html"; echo $DOCS_URL
+          command: DOCS_URL="${CIRCLE_BUILD_URL}/artifacts/${CIRCLE_NODE_INDEX}/output/index.html"; echo $DOCS_URL
 
 workflows:
   version: 2
   test-documentation:
     jobs:
-      - html-docs
+      - build-website
 
 notify:
   webhooks:
