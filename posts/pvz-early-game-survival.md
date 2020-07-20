@@ -18,3 +18,9 @@
 ## u/Lunai5444's notes on surviving fast pools
 
 [Link to notes](https://pastebin.com/CgM7AdNW).
+
+## Harstem's guides:
+
+### 12pool
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L5L5ApMi154" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
