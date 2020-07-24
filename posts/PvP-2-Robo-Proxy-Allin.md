@@ -12,12 +12,5 @@
 
 ## Best Approach to PvP period
 
->build order
->build order
->build order
->build order
->build order
->build order
->build order
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/z3MFpm8l0O0" frameborder="2" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
