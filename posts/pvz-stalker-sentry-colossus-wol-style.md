@@ -23,6 +23,8 @@ Reasoning behind this build popping up now:
 * Oracles got buffed vs creep
 * Shield battery helps with defense
 
+<!--TEASER_END-->
+
 ## Opening
 
 * Try to open gas first, either don't scout (greedy) or put 15/16 probes on minerals, 2 on gas initially.
