@@ -5,7 +5,7 @@
 .. tags: pvz, stalker, colossus, macro, probesc2
 .. category: Topical
 .. link: https://www.youtube.com/watch?v=WIc4oFVLjA4
-.. description: 
+.. description: History has completed a full cycle and we're back to WoL style Colossus PvZ!
 .. type: text
 -->
 
