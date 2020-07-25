@@ -46,8 +46,8 @@ Reasoning behind this build popping up now:
 
 * after the adepts: straight sentries, 4 or 6 depending on the earlier variant.
 * At ~4:48 add TC, forge, at least you want them started by 5 minutes.
-* Go up to 20 probes on natural -> add 4 gateways
-    * **Note**: *I'm still trying to get confirmation on the importance of the 20 probe count from, er, Probe.*
+* Make a **slight** probe cut to get 4 more gateways up faster. Probe likes to go to 20 probes in minerals at the natural. You still want to probe up for your 3rd to be saturated quickly.
+    * **Note**: [*I asked Probe in the comments about this. His exact words were:* " Yeah you want to cut probes to get the gateways earlier, but still want to be a bit economic. I have just found 20 to be a nice amount for me to get everything in time."](https://www.youtube.com/watch?v=WIc4oFVLjA4&lc=Ugw8oO8223jsJsc2wCh4AaABAg)
 * start blink, +1 weapons
 
 ## Decision point - do we apply pressure?
