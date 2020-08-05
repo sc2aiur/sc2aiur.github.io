@@ -9,17 +9,6 @@
 .. type: text
 .. author: pezzaperry
 -->
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Page Title</title>
-	<style>
-		body [background-color: black;}
-		h1 {color: white;}
-		p {color: white;}
-	</style>
-</head>
-<body>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OHQfkEx76IE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h1>Build Order</h1>
 <p>
@@ -48,5 +37,3 @@ Take third gas
 Continuous Pylons
 4 more Gateways 
 </p>
-</body>
-</html>
