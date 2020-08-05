@@ -1,5 +1,5 @@
 <!--
-.. title: Zest's 4 Gate Glaives into 8 Gate Glaives + 2 Immortals
+.. title: Zest's 4 Gate Glaives into 8 Gate Glaives + 2 Immortals - Guide by Pezzaperry
 .. slug: Zest's-4-Gate-Glaives-into-8-Gate-Glaives-+-2-Immortals
 .. date: 2020-08-05 
 .. tags: pvz, all-in, adept, immortal, 8gate
