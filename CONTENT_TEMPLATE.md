@@ -1,9 +1,9 @@
 <!--
-.. title: <Put your content title here.>
+.. title: <Put your content title here. Remove the brackets!>
 .. slug: <short-link-to-post-goes-here>
-.. date: <Post date, such as 2020-07-07>
-.. tags: <maps, pvt, pvp, pvz, guide, beginner, early game, phoenix... look at https://sc2aiur.github.io/tags/ >
-.. category: <Guides / Videos>
+.. date: <Post date, such as 2020-12-31>
+.. tags: <maps, pvt, pvp, pvz, guide, beginner, early game, phoenix... look at https://sc2aiur.github.io/categories/ >
+.. category: <Guides / Videos / Topical >
 .. link: <Link to source material>
 .. description: <Put a short description here.>
 .. type: text
