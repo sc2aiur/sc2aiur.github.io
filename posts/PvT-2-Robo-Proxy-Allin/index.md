@@ -1,6 +1,6 @@
 <!--
-.. title: PvP 2 Robo Proxy Allin
-.. slug: PvP-2-Robo-Proxy-Allin
+.. title: PvT 2 Robo Proxy Allin
+.. slug: PvT-2-Robo-Proxy-Allin
 .. date: 2020-07-24
 .. tags: pvp, early game, beginner, article, immortal, proxy
 .. category: videos
