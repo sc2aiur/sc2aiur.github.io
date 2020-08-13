@@ -32,6 +32,9 @@ Maintainers filter out troll entries and
 merge the content if it's trustworthy and noncontroversial. Controversial stuff
 can **and should** be discussed on Reddit or Discord before merging.
 
+People without interest in GitHub can now use the [google form we've set
+up](https://docs.google.com/forms/d/e/1FAIpQLSdqTjb3SYuSOI5G30gJ0AP41EwSDkscUEcBaRhIHjXTXJBXEQ/viewform).
+
 Ideally, this will become something we can link to Protoss newbies and say,
 *yeah, it's good stuff, we've vetted it and it makes sense - follow these and
 you'll get diamond in no time*. If it does, it'll be because we, as a community,
