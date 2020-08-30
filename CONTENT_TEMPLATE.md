@@ -1,7 +1,7 @@
 <!--
 .. title: <Put your content title here. Remove the brackets!>
 .. slug: <short-link-to-post-goes-here>
-.. date: <Post date, such as 2020-12-31>
+.. date: <Post date, such as 2021-12-31>
 .. tags: <maps, pvt, pvp, pvz, guide, beginner, early game, phoenix... look at https://sc2aiur.github.io/categories/ >
 .. category: <Guides / Videos / Topical >
 .. link: <Link to source material>
@@ -14,3 +14,7 @@ Put your content here. Use markdown.
 
 Through the browser, add these using
 https://github.com/sc2aiur/sc2aiur.github.io/new/src/posts
+
+<!--TEASER_END-->
+
+Write stuff you don't want on the main page here.
