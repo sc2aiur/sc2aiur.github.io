@@ -15,7 +15,7 @@ As used by Trap and Parting in Dreamhack Masters. You should be able to find rep
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WIc4oFVLjA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Perfi's notes on Probe's guide
+# Perfi's notes on Probe's guide, based on the video
 
 Reasoning behind this build popping up now:
 
@@ -77,3 +77,22 @@ Two ways you can play this vs standard Ling-Bane-Ravager:
 * you can HEAR the direction nyduses pop out from on stereo headphones!
 
 * Prioritize weapons upgrades.
+
+# Probe's minimal build order notes (from YouTube)
+
+* 14 Pylon
+* 15 Gas
+* 15 Gate
+* 20 Nexus
+* 20 Core
+* 21 Gas
+* 22 Pylon
+
+* Adept + SG + Warpgate
+* Stalker
+* 2 oracles
+* Gases between 3:30 and 4:00
+* Third nexus + constant sentry warp ins
+* Twilight + Forge before 5 minutes
+* 4 extra gates and scout for fourth base
+* Push/Add Robo 
