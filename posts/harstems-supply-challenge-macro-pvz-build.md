@@ -2,7 +2,7 @@
 .. title: Harstem's "Supply Challenge" macro PvZ build
 .. slug: harstems-supply-challenge-macro-pvz-build
 .. date: 2020-08-13 07:00:29 UTC
-.. tags: pvz, beginner, macro
+.. tags: pvz, beginner, macro, archon, timing attack
 .. category: videos
 .. link: 
 .. description: A neat macro build for PvZ
