@@ -29,6 +29,7 @@
 ### Economic
 
 ### Timing Attack
-[4 Gate Glaives into 8 gate glaives w/ immortals](/posts/Zest's-4-Gate-Glaives-into-8-Gate-Glaives-+-2-Immortals)
+
+* [4 Gate Glaives into 8 gate glaives w/ immortals](/posts/Zest's-4-Gate-Glaives-into-8-Gate-Glaives-+-2-Immortals)
 
 ### Cheese
