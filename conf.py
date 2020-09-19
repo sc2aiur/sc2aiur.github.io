@@ -141,10 +141,10 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         (
             (
-                ("/pages/guide.md", "General Guide"),
-                ("/pages/pvt.md", "PvT"),
-                ("/pages/pvz.md", "PvZ"),
-                ("/pages/pvp.md", "PvP"),
+                ("/guide/", "General Guide"),
+                ("/pvt/", "PvT"),
+                ("/pvz/", "PvZ"),
+                ("/pvp/", "PvP"),
             ),
             "Guide",
         ),
