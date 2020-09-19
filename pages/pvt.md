@@ -29,6 +29,7 @@
 ### Economic
 
 ### Timing Attack
-[Parting 4-Gate Blink-Allin](/posts/PartinGs-PvT-4-Gate-Blink-Allin)
+
+* [Parting 4-Gate Blink-Allin](/posts/PartinGs-PvT-4-Gate-Blink-Allin)
 
 ### Cheese
