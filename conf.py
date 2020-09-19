@@ -139,7 +139,15 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-
+        (
+            (
+                ("/guide/", "General Guide"),
+                ("/pvt/", "PvT"),
+                ("/pvz/", "PvZ"),
+                ("/pvp/", "PvP"),
+            ),
+            "Guide",
+        ),
         (
             (
                 ("/categories/", "By tags"),
@@ -151,18 +159,13 @@ NAVIGATION_LINKS = {
                 ("/categories/beginner/", "For beginners"),
                 ("/categories/cheese-defense", "Cheese defense"),
             ),
-            "Content",
+            "Posts",
         ),
         (
             (
                 ("https://www.reddit.com/r/allthingsprotoss/", "r/ATP"),
                 ("https://discord.gg/BDWE78p", "r/Starcraft Discord"),
                 ("https://discord.gg/0vqBir5WqHvZBlxc", "r/ATP Discord"),
-            ),
-            "Community",
-        ),
-        (
-            (
                 ("https://www.youtube.com/channel/UCCRdB9rqzP2m7bPYb5drH_Q", "Harstem's youtube guides"),
                 ("https://www.youtube.com/playlist?list=PLFUDU8AOevUc4Y10yIUlMsXSiy-F0LEgP", "Protoss PiG Daily Episodes"),
                 ("https://www.youtube.com/user/MattCStarcraft/videos", "MCanning YouTube guides"),
@@ -172,7 +175,7 @@ NAVIGATION_LINKS = {
                 ("https://docs.google.com/document/d/1CxAiv5lcPCT4pIZfZe91l8ZDGTKTGnlPaiMDTmfpPeU/edit", "BOTW Archive"),
                 ("https://www.youtube.com/watch?v=7Ezci19D-DY&list=PLh2lJsj9ze1Dnw75H7NT0s73vmWJfTcZI", "HuShang's Protoss guides"),
             ),
-            "YouTube guides, external sources",
+            "Community",
         ),
         (
             (
