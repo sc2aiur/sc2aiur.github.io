@@ -14,7 +14,7 @@
 
 ## Welcome to SC2Aiur's general guide to playing Protoss
 
-### For specific matchup help, head over to [PvT](/pages/pvt.md), [PvP](/pages/pvp.md) or [PvZ](/pages/pvz.md)
+### For specific matchup help, head over to [PvT](/pvt/), [PvP](/pvp/) or [PvZ](/pvz/)
 
 You are new to Starcraft II or Protoss? This is the perfect place to start! Keep in mind that each race is different and plays differently, and for protoss specifically, each matchup must be thought of individually, with something as simple as placing your first pylon having severe repercussions.
 
