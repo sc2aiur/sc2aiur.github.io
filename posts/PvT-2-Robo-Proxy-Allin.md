@@ -2,7 +2,7 @@
 .. title: PvT 2 Robo Proxy Allin
 .. slug: PvT-2-Robo-Proxy-Allin
 .. date: 2020-07-24
-.. tags: pvp, early game, beginner, article, immortal, proxy
+.. tags: pvt, early game, beginner, article, immortal, proxy
 .. category: videos
 .. link: https://www.youtube.com/watch?v=z3MFpm8l0O0
 .. description: Simple and strong all-in
