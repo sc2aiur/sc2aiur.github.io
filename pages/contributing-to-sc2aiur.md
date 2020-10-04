@@ -39,7 +39,10 @@ We wanted to have something fulfilling these criteria:
 
 # How to do stuff?
 
-This will cover the basic, browser-based interface. I personally do something
+This will cover the basic, browser-based interface. I personally do this from
+the command line on Linux; Starcraft is mostly played by Windows users and I
+don't quite know what a comfortable editing experience would look like there.
+Feel free to ask on Discord!
 
 ## Editing posts
 
@@ -90,5 +93,5 @@ show up at the bottom of the pull request's page:
 * `ci/cirleci: build-website` ensures that any changes you make don't break the website hard enough that it won't even build. If that errors out, look through the logs to find the cause (or ask!).
 * `website` offers a preview of the website as it would look when built including your new and awesome changes. Click on `details` to see the preview.
     * Note that **links get broken on the preview**, but there is a workaround: links like https://90-280468856-gh.circle-artifacts.com/0/output/posts/ will display an "Artifact not found" error, but if you manually append `index.html` [like this](https://90-280468856-gh.circle-artifacts.com/0/output/posts/index.html), the link should work.
-
-
+    * if `website` doesn't end up working, you can go through `details` for `ci/circleci: build-website` -> Steps -> `Built website is available at`:, from which you can copy an URL that looks like this:
+        * https://circleci.com/gh/sc2aiur/sc2aiur.github.io/92/artifacts/0/output/posts/index.html
