@@ -24,7 +24,9 @@ In PvP, you want to build a wall at the ramp entering the main, as the two adept
 #### Scouting
 The starting build order for PvP is 14 pylon, 15 gateway, 16 gas, 17gas, 19 gateway, 19 cyber core, 20 pylon. For scouting, you want to use the probe building the second gas at 17 to go down to the natural and explore the edges of it, as to see if there is any proxy pylon placed there. You then bring the probe back to the ramp and build the second gateway. You send a probe to the opponent's base either at this time, or after building the cybernetics core.
 
-Once arriving at the opponent's main, you want to see the two gateways and cybernetics core building, as well as two pylons in the main, usually one at the ramp and one near his mineral line finishing. The enemy gateway units will spawn at around 2:30 and your probe should have left the base by then, or it will be killed. If you do not see a third pylon in his main, that means he is probably proxying a building, and you may be getting all-inned.
+Upon arriving at the opponent's main, you want to see the two gateways and cybernetics core building, as well as two pylons in the main, usually one at the ramp and one near his mineral line finishing. The enemy gateway units will spawn at around 2:30 and your probe should have left the base by then, or it will be killed. If you do not see a third pylon in his main, that means he is possibly proxying a building, and you may be getting all-inned.
+
+Note that [clever people](https://liquipedia.net/starcraft2/Trap) often proxy just the 3rd pylon somewhere out on the map, as a form of mindgame. This means you often need more information.
 
 Further scouting in the matchup is generally done with sentry hallucinations.
 
