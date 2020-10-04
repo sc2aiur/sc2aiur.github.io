@@ -17,7 +17,7 @@ jobs:
           path: output
       - run:
           name: "Built website is available at:"
-          command: DOCS_URL="${CIRCLE_BUILD_URL}/artifacts/${CIRCLE_NODE_INDEX}/output/posts/index.html"; echo $DOCS_URL
+          command: DOCS_URL="${CIRCLE_BUILD_URL}/artifacts/${CIRCLE_NODE_INDEX}/output/index.html"; echo $DOCS_URL
 
 workflows:
   version: 2
