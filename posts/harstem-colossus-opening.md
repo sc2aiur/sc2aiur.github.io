@@ -10,7 +10,7 @@
 
 # Harstem's "Supply Challenge" guide (2020-09)
 
-[Here's the build order at SpawningTool](https://lotv.spawningtool.com/build/134964/).
+[Here's the build order at SpawningTool](https://lotv.spawningtool.com/build/134824).
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UjrgBP1oL1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
