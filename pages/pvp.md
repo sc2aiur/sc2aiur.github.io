@@ -14,7 +14,7 @@
 
 ## Welcome to SC2Aiur's general guide to Protoss vs Protoss
 
-PvP is the only matchup where you will delay your expansion in favor of having more units early. The general game plan starts with two gateways, from which you build either two adepts, two stalkers, or one stalker and a sentry. From there, you can be aggressive or defensive with your starting units, and decide whether to commit to aggression, expand go any of the three tech routes, as robo, twilight into blink or stargate are all viable options. The main mid game compositions to build towards are generally either Chargelot-Immortal-Archon based (CIA), or heavy on the blink stalkers, with disruptors being excellent in either composition.
+PvP is the only matchup where you will **delay your expansion in favor of having more units early**. The general game plan starts with **two gateways**, from which you build either two adepts, two stalkers, or one stalker and a sentry. From there, you can be aggressive or defensive with your starting units, and decide whether to commit to aggression, expand, or go any of the three tech routes, as robo, twilight into blink or stargate are all viable options. The main mid game compositions to build towards are generally either Chargelot-Immortal-Archon based (CIA), or one based on [blink stalkers for mobility with disruptors for bursty firepower](posts/blinkdisruptor-era-pvp/).
 
 ### Fundamentals
 
