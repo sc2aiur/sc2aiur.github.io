@@ -182,6 +182,7 @@ NAVIGATION_LINKS = {
                 ("https://github.com/sc2aiur/sc2aiur.github.io", "GitHub repo for website"),
                 ("https://github.com/sc2aiur/", "GitHub org"),
                 ("https://docs.google.com/forms/d/e/1FAIpQLSdqTjb3SYuSOI5G30gJ0AP41EwSDkscUEcBaRhIHjXTXJBXEQ/viewform", "Post submission form"),
+               ("Discord channel for the site", "https://discord.gg/b6sjCxH"),
             ),
             "Contribute",
         ),

@@ -33,6 +33,7 @@ Further scouting in the matchup is generally done with sentry hallucinations.
 #### Defending all-ins
 
 ##### Cannon rush
+* [Cannon rush defense](/posts/harstem-cannonrush-printf)
 
 ##### Proxies
 
@@ -45,4 +46,5 @@ Further scouting in the matchup is generally done with sentry hallucinations.
 ### Cheese
 
 ### Playstyles
+
 - [Blink Disruptor](/posts/blinkdisruptor-era-pvp/)
